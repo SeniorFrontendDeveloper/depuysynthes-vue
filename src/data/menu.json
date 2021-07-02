@@ -1,0 +1,57 @@
+{
+    "mainSection": {
+        "name": "Main",
+        "sectionItems": [
+            {
+                "title": "Overview",
+                "pathName": "dashboard",
+                "icon": "home"
+            },
+            {
+                "title": "Start a New RFP",
+                "pathName": "new-rfp",
+                "icon": "newRfp"
+            },
+            {
+                "title": "My RFPs",
+                "pathName": "my-rfps",
+                "icon": "rfp"
+            },
+            {
+                "title": "Templates",
+                "pathName": "templates",
+                "icon": "templates"
+            },
+            {
+                "title": "Published",
+                "pathName": "published",
+                "icon": "published"
+            },
+            {
+                "title": "Shared with me",
+                "pathName": "shared-with-me",
+                "icon": "shared"
+            },
+            {
+                "title": "Resources",
+                "pathName": "resources",
+                "icon": "resources"
+            }
+        ]
+    },
+    "helpSection": {
+        "name": "Help",
+        "sectionItems": [
+            {
+                "title": "Settings",
+                "pathName": "settings-email-body",
+                "icon": "settings"
+            },
+            {
+                "title": "Support",
+                "pathName": "support",
+                "icon": "support"
+            }
+        ]
+    }
+}

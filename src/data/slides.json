@@ -1,0 +1,142 @@
+[
+  {
+    "groupTitle": "Introduction",
+    "icon": "health_caring",
+    "slides": [
+      {
+        "slideTitle": "About J and J",
+        "enabled": true
+      },
+      {
+        "slideTitle": "About DPS",
+        "enabled": true
+      },
+      {
+        "slideTitle": "Trauma Challenges",
+        "enabled": true
+      },
+      {
+        "slideTitle": "Trauma table by site of care"
+      }
+    ]
+  },
+  {
+    "groupTitle": "Customer Service",
+    "icon": "handshake",
+    "slides": [
+      {
+        "slideTitle": "Sales Consultant Service",
+        "enabled": true
+      }
+    ]
+  },
+  {
+    "groupTitle": "Surgeon Satisfaction",
+    "icon": "medicalProfessional",
+    "slides": [
+      {
+        "slideTitle": "Net Promoter Score",
+        "enabled": true
+      },
+      {
+        "slideTitle": "Surgeon Plan"
+      }
+    ]
+  },
+  {
+    "groupTitle": "Deliver Actual Savings",
+    "icon": "dollar",
+    "slides": [
+      {
+        "slideTitle": "Saving through Procedural Efficiency"
+      },
+      {
+        "slideTitle": "Stories From 3rd Party Data"
+      },
+      {
+        "slideTitle": "Trauma Analysis Tool Demo"
+      },
+      {
+        "slideTitle": "Trauma Analysis Output"
+      },
+      {
+        "slideTitle": "CSSR Table"
+      },
+      {
+        "slideTitle": "Sterile Containers"
+      },
+      {
+        "slideTitle": "Universal Small Frag"
+      },
+      {
+        "slideTitle": "eSIMS"
+      },
+      {
+        "slideTitle": "Savings with Biologics, Power"
+      },
+      {
+        "slideTitle": "Rebates/ Overlay/NBI"
+      },
+      {
+        "slideTitle": "Savings Summary"
+      }
+    ]
+  },
+  {
+    "groupTitle": "Quality Of Care",
+    "icon": "quality",
+    "slides": [
+      {
+        "slideTitle": "Instrument Warranty"
+      },
+      {
+        "slideTitle": "AOTC"
+      },
+      {
+        "slideTitle": "Research, Innovation and Education"
+      },
+      {
+        "slideTitle": "Hip Fracture Care"
+      },
+      {
+        "slideTitle": "Maxframe Care"
+      }
+    ]
+  },
+  {
+    "groupTitle": "Comprehensive Portfolio",
+    "icon": "plan",
+    "slides": [
+      {
+        "slideTitle": "Trauma Portfolio Procedure Overview"
+      },
+      {
+        "slideTitle": "Product Portfolio - Complete Solution"
+      },
+      {
+        "slideTitle": "Investment In Innovation"
+      },
+      {
+        "slideTitle": "NPI Launch"
+      },
+      {
+        "slideTitle": "PRO-PAK"
+      }
+    ]
+  },
+  {
+    "groupTitle": "Training Support",
+    "icon": "professional",
+    "slides": [
+      {
+        "slideTitle": "Prof ed overview"
+      },
+      {
+        "slideTitle": "Future Leaders"
+      },
+      {
+        "slideTitle": "Customized Training Plan"
+      }
+    ]
+  }
+]

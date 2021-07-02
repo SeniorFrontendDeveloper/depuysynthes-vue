@@ -1,0 +1,32 @@
+[
+  {
+    "templateName": "Full Presentation",
+    "numberOfSlides": 79,
+    "favorite": false,
+    "coverImg": "https://cdn.pixabay.com/photo/2012/11/28/09/32/explosion-67557_960_720.jpg"
+  },
+  {
+    "templateName": "Quarterly Business Review",
+    "numberOfSlides": 24,
+    "favorite": false,
+    "coverImg": "https://cdn.pixabay.com/photo/2017/10/04/09/56/laboratory-2815641_960_720.jpg"
+  },
+  {
+    "templateName": "Vitae blandit habitasse orci et",
+    "numberOfSlides": "04",
+    "favorite": true,
+    "coverImg": "https://cdn.pixabay.com/photo/2014/06/03/19/38/board-361516_960_720.jpg"
+  },
+  {
+    "templateName": "Convallis nec diam pulvinar euismod",
+    "numberOfSlides": 8,
+    "favorite": true,
+    "coverImg": "https://cdn.pixabay.com/photo/2013/07/12/17/47/test-pattern-152459__340.png"
+  },
+  {
+    "templateName": "Molestie interdum convallis integer ullamcorper",
+    "numberOfSlides": 81,
+    "favorite": true,
+    "coverImg": "https://cdn.pixabay.com/photo/2018/02/24/21/40/smartphone-3179295__340.jpg"
+  }
+]

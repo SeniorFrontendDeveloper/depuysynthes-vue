@@ -1,0 +1,48 @@
+[
+  {
+    "presentationName": "Memorial Hospital of Tampa",
+    "companyName": "Memorial Hospital",
+    "totalSlides": 7,
+    "preparedSlides": 6,
+    "attachments": 2,
+    "team": [
+      {
+        "name": "M M",
+        "profileImg": null
+      },
+      {
+        "name": "J S",
+        "profileImg": null
+      },
+      {
+        "name": "Douglas Crockford",
+        "profileImg": "https://miro.medium.com/max/960/0*Hy1MLJ2UQxNYlfYY."
+      },
+      {
+        "name": "Steve Wozniak",
+        "profileImg": "https://miro.medium.com/max/960/0*Hy1MLJ2UQxNYlfYY."
+      }
+    ]
+  },
+  {
+    "presentationName": "Mercy Hospital",
+    "companyName": "Mercy Hospital",
+    "totalSlides": 12,
+    "preparedSlides": 12,
+    "attachments": 4,
+    "team": [
+      {
+        "name": "J J",
+        "profileImg": null
+      },
+      {
+        "name": "T M",
+        "profileImg": null
+      },
+      {
+        "name": "Steve Wozniak",
+        "profileImg": "https://miro.medium.com/max/960/0*Hy1MLJ2UQxNYlfYY."
+      }
+    ]
+  }
+]
